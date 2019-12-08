@@ -3,9 +3,68 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{81CFF4A0-B400-4BBD-A557-38C47C49438E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Services", "2 - Services", "{54B60D76-EBB9-486A-BBCF-388D40FF7D15}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Application", "3 - Application", "{BEADA5AE-024F-4716-A096-981EE99EF932}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Domain", "4 - Domain", "{D2DDF608-44B3-4400-B225-07FF81ACFE02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Infra", "5 - Infra", "{B24FCAF1-5D5B-4948-8C05-0AD9AAF1BDF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.1 - Data", "5.1 - Data", "{AB11711E-99C6-4266-8FE4-A0B329CED3D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.2 - CrossCutting", "5.2 - CrossCutting", "{7A994110-33C2-4D96-B220-15C34FF54AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WP.MvcIntermediario.Dominio", "src\WP.MvcIntermediario.Dominio\WP.MvcIntermediario.Dominio.csproj", "{816FCB10-7C58-4216-96AA-8AADD912B647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WP.MvcIntermediario.Infra.Data", "src\WP.MvcIntermediario.Infra.Data\WP.MvcIntermediario.Infra.Data.csproj", "{BBC38AD8-2822-46AB-BAE7-2AE74FE53755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WP.MvcIntermediario.Application", "src\WP.MvcIntermediario.Application\WP.MvcIntermediario.Application.csproj", "{6D2AA65B-E60C-48F9-900D-73C05A6EC94D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WP.MvcIntermediario.UI.Site", "src\WP.MvcIntermediario.UI.Site\WP.MvcIntermediario.UI.Site.csproj", "{79C03B3C-2022-4F5A-973C-5588628A8B45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WP.MvcIntermediario.Infra.CrossCrutting.AspNetFilters", "src\WP.MvcIntermediario.Infra.CrossCrutting.AspNetFilters\WP.MvcIntermediario.Infra.CrossCrutting.AspNetFilters.csproj", "{308E732B-D561-407D-8990-223CD9A48E13}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{816FCB10-7C58-4216-96AA-8AADD912B647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816FCB10-7C58-4216-96AA-8AADD912B647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816FCB10-7C58-4216-96AA-8AADD912B647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816FCB10-7C58-4216-96AA-8AADD912B647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC38AD8-2822-46AB-BAE7-2AE74FE53755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC38AD8-2822-46AB-BAE7-2AE74FE53755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC38AD8-2822-46AB-BAE7-2AE74FE53755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC38AD8-2822-46AB-BAE7-2AE74FE53755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D2AA65B-E60C-48F9-900D-73C05A6EC94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2AA65B-E60C-48F9-900D-73C05A6EC94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2AA65B-E60C-48F9-900D-73C05A6EC94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2AA65B-E60C-48F9-900D-73C05A6EC94D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C03B3C-2022-4F5A-973C-5588628A8B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C03B3C-2022-4F5A-973C-5588628A8B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C03B3C-2022-4F5A-973C-5588628A8B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C03B3C-2022-4F5A-973C-5588628A8B45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{308E732B-D561-407D-8990-223CD9A48E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308E732B-D561-407D-8990-223CD9A48E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308E732B-D561-407D-8990-223CD9A48E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308E732B-D561-407D-8990-223CD9A48E13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB11711E-99C6-4266-8FE4-A0B329CED3D1} = {B24FCAF1-5D5B-4948-8C05-0AD9AAF1BDF1}
+		{7A994110-33C2-4D96-B220-15C34FF54AFA} = {B24FCAF1-5D5B-4948-8C05-0AD9AAF1BDF1}
+		{816FCB10-7C58-4216-96AA-8AADD912B647} = {D2DDF608-44B3-4400-B225-07FF81ACFE02}
+		{BBC38AD8-2822-46AB-BAE7-2AE74FE53755} = {AB11711E-99C6-4266-8FE4-A0B329CED3D1}
+		{6D2AA65B-E60C-48F9-900D-73C05A6EC94D} = {BEADA5AE-024F-4716-A096-981EE99EF932}
+		{79C03B3C-2022-4F5A-973C-5588628A8B45} = {81CFF4A0-B400-4BBD-A557-38C47C49438E}
+		{308E732B-D561-407D-8990-223CD9A48E13} = {7A994110-33C2-4D96-B220-15C34FF54AFA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F97B381-307B-4976-98F9-A92DC0580076}

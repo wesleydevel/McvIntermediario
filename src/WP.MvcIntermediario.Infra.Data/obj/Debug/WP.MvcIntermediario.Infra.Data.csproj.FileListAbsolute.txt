@@ -1,0 +1,16 @@
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\bin\Debug\WP.MvcIntermediario.Infra.Data.dll.config
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\bin\Debug\WP.MvcIntermediario.Infra.Data.dll
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\bin\Debug\WP.MvcIntermediario.Infra.Data.pdb
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\bin\Debug\WP.MvcIntermediario.Dominio.dll
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\bin\Debug\WP.MvcIntermediario.Dominio.pdb
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\bin\Debug\WP.MvcIntermediario.Dominio.dll.config
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\obj\Debug\WP.MvcIntermediario.Infra.Data.csprojAssemblyReference.cache
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\obj\Debug\WP.MvcIntermediario.Infra.Data.csproj.CopyComplete
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\obj\Debug\WP.MvcIntermediario.Infra.Data.dll
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\obj\Debug\WP.MvcIntermediario.Infra.Data.pdb
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\bin\Debug\Dapper.dll
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Infra.Data\bin\Debug\Dapper.xml

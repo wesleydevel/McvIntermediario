@@ -1,0 +1,5 @@
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Dominio\bin\Debug\WP.MvcIntermediario.Dominio.dll.config
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Dominio\bin\Debug\WP.MvcIntermediario.Dominio.dll
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Dominio\bin\Debug\WP.MvcIntermediario.Dominio.pdb
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Dominio\obj\Debug\WP.MvcIntermediario.Dominio.dll
+D:\Documentos\Documentos\Projects\Visual Studio\MvcIntermediario\src\WP.MvcIntermediario.Dominio\obj\Debug\WP.MvcIntermediario.Dominio.pdb

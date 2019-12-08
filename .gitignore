@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/MvcIntermediario/v16/Server/sqlite3/storage.ide-wal
+/.vs/MvcIntermediario/v16/Server/sqlite3/storage.ide-shm
+/.vs/MvcIntermediario/v16/Server/sqlite3/storage.ide
+/.vs/MvcIntermediario/v16/Server/sqlite3/db.lock
+/.vs/MvcIntermediario/DesignTimeBuild/.dtbcache
+/.vs/MvcIntermediario/config/applicationhost.config
